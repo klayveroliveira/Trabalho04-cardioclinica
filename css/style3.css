@@ -1,0 +1,112 @@
+.img1{
+    margin-top: 30px;
+}
+.div1{
+    background-color: rgb(236, 226, 208);
+}
+.a1{
+    font-weight: bolder;
+}
+.p1{
+    color: rgb(127, 127, 127);
+}
+.div2{
+    background-color: rgb(217, 197, 163);
+}
+.img2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tel{
+    font-weight: bolder;
+}
+.p2{
+    font-weight: bolder;
+}
+.div3{
+    background-color: rgb(197, 169, 116);
+}
+.img3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.button1{
+    width: 150px;
+    height: 40px;
+    font-weight: bolder;
+    font-size: 15px;
+    background-color: rgb(236, 226, 208);
+    border: 0px;
+    border-radius: 10px;
+}
+.img4{
+    margin-top: 25px;
+}
+.img5{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+nav{
+    background-color: rgb(184, 119, 63);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+li{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    margin-right: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.titulo{
+    color: rgb(175, 151, 109);
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+main{
+    background-color: rgb(230, 230, 230);
+}
+.img6{
+    margin-left: 280px;
+    margin-right: -160px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.img7{
+    margin-left: 830px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+footer{
+    height: 380px;
+    background-color: rgb(213, 213, 213);
+}
+.f1{
+    padding-top: 50px;
+}
+.f2{
+    margin-top: 30px;
+    margin-left: 450px;
+}
+.f3{
+    margin-left: -35px;
+}
+.contato h1{
+    color: rgb(184,119,63);
+    font-weight: bolder;
+    font-size: 24px;
+    padding-top: 50px;
+}
+.f4{
+    width: 40px;
+    margin-top: 30px;
+    margin-left: -150px;
+}
+.f5{
+    margin-top: 20px;
+    margin-left: 80px;
+}

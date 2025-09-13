@@ -1,0 +1,41 @@
+li{
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+nav{
+    background-color: rgb(90, 62, 8);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contato{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(187, 134, 34);
+}
+
+.insta
+{
+    width:250px;
+}
+.contato h1{
+    color: rgb(187, 134, 34);
+    font-weight: bold;
+}
+.titulo{
+    color: rgb(106, 75, 18);
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.a01{
+    background-color: gray;
+}
+main div{
+    background-color: white;
+    border: 10px solid gray;
+    border-radius: 20px;
+}
